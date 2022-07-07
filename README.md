@@ -11,6 +11,7 @@ In a more specific way, it’s necessary to gather analysis inside the theatre, 
 In the graph is clear to see the best month for launching a founding are May to July, but it was impossible to see the changes in tendencies because of the lack of Year Ago info or the last 2 years.
 One solution is to filter the graph by year, then analyze the median of all years, so we can contrast the last 2 years, in this way we can obtain the tendency and get a correct insight.
 
+![This is an image](https://github.com/TatoRbl/Kickstarter-Analysis/blob/main/Theather%20Outcomes%20vs%20Launch.png)
 In this graph the display of the years persists, so we can’t visualize by year. This presents the same complexity as the previous graph. The insight we obtain was 2 different ranges with 60-80% of success index. 
 To bring a solution we need to visualize by year or range of years, but it is also recommended to look for the difference between the plays that are in the range <5K and the ones between 35K to 45K
 
