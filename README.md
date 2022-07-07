@@ -18,7 +18,9 @@ To bring a solution we need to visualize by year or range of years, but it is al
 ## 3.	Results
 
 The best season to launch theatre funding campaign is Summer.
+
 Historically the worst months to reach funds are November and December.
+
 The output of the analysis is if you have a well develop play, you must ask for the range between 35K to 45K.
 
 The last recommendation to analyze the vast numeric information of high value is necessary to visualize not just the graphs but also tables, as the cut by years or range by years. It’s important to analyze all the spectrums of the data. You must see the range of the founding most successful, then the number of people who donated, then obtain the average of donations by people. This can help you to understand the common factor of this plays with index of success and specific range of donations,
