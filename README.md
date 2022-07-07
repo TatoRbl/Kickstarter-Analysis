@@ -6,10 +6,15 @@ The focal point of this analysis is to comprehend the performance of “Theatre�
 In a more specific way, it’s necessary to gather analysis inside the theatre, subgenre “Plays” to visualize different ranges of objectives and their respective index of success and choose the most adequate range.
 
 ## 2.	Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
 ![This is an image](https://github.com/TatoRbl/Kickstarter-Analysis/blob/main/Theather%20Outcomes%20vs%20Launch.png)
 
 In the graph is clear to see the best month for launching a founding are May to July, but it was impossible to see the changes in tendencies because of the lack of Year Ago info or the last 2 years.
 One solution is to filter the graph by year, then analyze the median of all years, so we can contrast the last 2 years, in this way we can obtain the tendency and get a correct insight.
+
+### Analysis of Outcomes Based on Goals
 
 ![This is an image](https://github.com/TatoRbl/Kickstarter-Analysis/blob/main/Outcomes%20vs%20Goals.png)
 In this graph the display of the years persists, so we can’t visualize by year. This presents the same complexity as the previous graph. The insight we obtain was 2 different ranges with 60-80% of success index. 
